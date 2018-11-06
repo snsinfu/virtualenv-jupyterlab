@@ -1,0 +1,11 @@
+jupyterlab
+jupyter_nbextensions_configurator
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+statsmodels
+gensim
+tensorflow
+keras
